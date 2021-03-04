@@ -271,7 +271,7 @@ async def amireallyalive(alive):
         f"➠       **🤖Versi Bot**\n       ➥       `{BOT_VER}` \n"
         f"➠       **📚Modul**    \n       ➥       `{len(modules)}` \n\n"
         f"**✘▬▬▬▬▬❙۩🐇۩❙▬▬▬▬▬✘**\n"
-        f"➠  **Repo Userbot:** [Sadboy-Userbot](https://github.com/Zora24/Lord-Userbot)\n➠ **Grup Userbot: **[Tekan](t.me/LordUserbot_Group)\n➠ **Pemilik:** [Yunus](t.me/ZendYNS)\n")      
+        f"➠  **Repo Userbot:** [Sadboy-Userbot](https://github.com/yunuszenduserbot/Lord-Userbot)\n➠ **Grup Userbot: **[Klik gbblk](t.me/LordUserbot_Group)\n➠ **Owner:** [Yunus](t.me/ZendYNS)\n")      
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
@@ -306,7 +306,7 @@ async def amireallyalive(alive):
         f"__Yang Digunakan Untuk Para Sadboy__ "
         f"__Di Telegram__ __Versi Bot Yang Digunakan__ `{BOT_VER}` "
         f"__Jumlah Modul Dalam Sadboy Userbot__ `{len(modules)}` \n\n"
-        f"🕊 **Repo Userbot:** [Sadboy-Userbot](https://github.com/Zora24/Lord-Userbot)\n🕊 **Grup Userbot: **[Klik gbblk](t.me/LordUserbot_Group)\n🕊 **Owner:** [Yunus](t.me/ZendYNS)\n")
+        f"☞ **Repo Userbot:** [Sadboy-Userbot](https://github.com/yunuszenduserbot/Lord-Userbot)\n☞ **Grup Userbot: **[Klik gbblk](t.me/LordUserbot_Group)\n☞ **Owner:** [Yunus](t.me/ZendYNS)\n")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
